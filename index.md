@@ -16,3 +16,38 @@ Aquí podremos poner más contenido.
 Aquí pondremos más cosillas
 
 ### Este es un título de tipo 3 (a mayor numeración, mas pequeño es el título)
+
+## clasificacion de la liga
+
+<table>
+  <tr>
+    <th>posiciones</th>
+    <th>equipos</th>
+    <th>puntuacion</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Barcelona</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>r.madrid</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>murcia</td>
+    <td>24</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>torreño</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>molinense</td>
+    <td>15</td>
+  </tr>
+</table>
