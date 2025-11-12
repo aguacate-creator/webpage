@@ -5,6 +5,7 @@ permalink: /ciclos/
 ---
 
 # C.F. de Grado Medio
+
 ## Gestión Administrativa
 
 |Curso|	Módulo Profesional|	Horas totales|
