@@ -3,6 +3,7 @@ layaut: single
 title: Ciclos formativos
 permalink: /ciclos/
 toc: true
+toc_label: selecciona tu sitio
 ---
 
 # C.F. de Grado Medio
