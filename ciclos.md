@@ -1,6 +1,6 @@
 ---
 layaut: splash
-title: ciclos formativos
+title: Ciclos formativos
 permalink: /ciclos/
 ---
 
@@ -8,7 +8,6 @@ permalink: /ciclos/
 ## Gestión Administrativa
 
 |Curso|	Módulo Profesional|	Horas totales|
-|---|---|---|
 |1|	Comunicación empresarial y atención al cliente	|135|
 |1|	Operaciones administrativas de compra-venta	|175|
 |1|	Empresa y Administración	|105|
@@ -30,7 +29,6 @@ permalink: /ciclos/
 
  
 |Curso|	Módulo Profesional|	Horas totales|
-|---|---|---|
 |1|	Operaciones administrativas y documentación sanitaria	|65|
 |1|	Técnicas básicas de enfermería	|350|
 |1|	Higiene del medio hospitalario y limpieza de material	|155|
@@ -39,11 +37,11 @@ permalink: /ciclos/
 |1|	Relaciones en el equipo de trabajo	|65|
 |1|	Itinerario personal para la Empleabilidad I	|65|
 |2|	Formación en centros de trabajo	|440|
+
 # C.F. de Formación Profesional Básica
 ## informatica de oficina
 
 |Curso|	Módulo Profesional|	Horas totales|
-|---|---|---|
 |1|	Montaje y mantenimiento de sistemas y componentes informáticos	|375|
 |1|	Ciencias aplicadas I	|140|
 |1|	Comunicación y sociedad I	|140|
@@ -56,10 +54,10 @@ permalink: /ciclos/
 |2|	Comunicación y sociedad II	|130|
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|50|
+
 ## servicios administrativos
 
 |Curso|	Módulo Profesional	|Horas totales|
-|---|---|---|
 |1|	Tratamiento informático de datos	|300|
 |1|	Técnicas administrativas básicas	|260|
 |1|	Atención al cliente	|75|
@@ -74,10 +72,10 @@ permalink: /ciclos/
 |2|	Comunicación y sociedad II	|130|
 |2|	Tutoría	|30|
 |2|	Proyecto intermodular de aprendizaje colaborativo	|501|
+
 ## alojamiento y lavanderia
 
 |Curso|	Módulo Profesional|	Horas totales|
-|---|---|---|
 |1|	Materiales y productos textiles	|115|
 |1|	Lavado y secado de ropa	|185|
 |1| Planchado y embolsado de ropa	|185|
