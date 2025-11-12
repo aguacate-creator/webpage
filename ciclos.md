@@ -12,6 +12,7 @@ permalink: /ciclos/
 ## informatica de oficina
 
 |Curso|	Módulo Profesional|	Horas totales|
+|---|---|---|
 |1|	Montaje y mantenimiento de sistemas y componentes informáticos	|375|
 |1|	Ciencias aplicadas I	|140|
 |1|	Comunicación y sociedad I	|140|
@@ -27,6 +28,7 @@ permalink: /ciclos/
 ## servicios administrativos
 
 |Curso|	Módulo Profesional	|Horas totales|
+|---|---|---|
 |1|	Tratamiento informático de datos	|300|
 |1|	Técnicas administrativas básicas	|260|
 |1|	Atención al cliente	|75|
@@ -43,19 +45,20 @@ permalink: /ciclos/
 |2|	Proyecto intermodular de aprendizaje colaborativo	|501|
 ## alojamiento y lavanderia
 
-|Curso|	Módulo Profesional	Horas totales
-1|	Materiales y productos textiles	115
-1|	Lavado y secado de ropa	185
-1| Planchado y embolsado de ropa	185
-1	Ciencias aplicadas I	140
-1	Comunicación y sociedad I	140
-1	Tutoría	30
-1	Preparación y montaje de materiales para colectividades y catering	150
-1	Itienerario personal para la empleabilidad	55
-2	Puesta a punto de habitaciones y zonas comunes en alojamiento	275
-2	Atención al cliente	75
-2	Lavandería y mantenimiento de lencería en el alojamiento	310
-2	Ciencias aplicadas II	130
-2	Comunicación y sociedad II	130
-2	Tutoría	30
-2	Proyecto intermodular de aprendizaje colaborativo	55
+|Curso|	Módulo Profesional|	Horas totales|
+|---|---|---|
+|1|	Materiales y productos textiles	|115|
+|1|	Lavado y secado de ropa	|185|
+|1| Planchado y embolsado de ropa	|185|
+|1|	Ciencias aplicadas I	|140|
+|1|	Comunicación y sociedad I	|140|
+|1| Tutoría	|30|
+|1| Preparación y montaje de materiales para colectividades y catering	|150|
+|1| Itienerario personal para la empleabilidad	|55|
+|2|	Puesta a punto de habitaciones y zonas comunes en alojamiento	|275|
+|2|	Atención al cliente	|75|
+|2|	Lavandería y mantenimiento de lencería en el alojamiento	|310|
+|2|	Ciencias aplicadas II	|130|
+|2|	Comunicación y sociedad II	|130|
+|2|	Tutoría	|30|
+|2|	Proyecto intermodular de aprendizaje colaborativo	|55|
