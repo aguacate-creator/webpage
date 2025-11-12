@@ -5,7 +5,6 @@ permalink: /ciclos/
 ---
 
 # C.F. de Grado Medio
-
 ## Gestión Administrativa
 
 |Curso|	Módulo Profesional|	Horas totales|
@@ -26,6 +25,7 @@ permalink: /ciclos/
 |2|	Proyecto Intermodular	|50|
 |2|	Sostenibilidad aplicada al sistema productivo	|30|
 |2|	Optativa	|80|
+
 ## Cuidados Auxiliares de Enfermería
 
  
